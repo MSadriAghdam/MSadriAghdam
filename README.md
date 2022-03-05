@@ -10,5 +10,4 @@ I'm Mohsen, a Machine Learning engineer, data analyst/scientist, and Learner. I'
 
 
 
-// README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=MSadriAghdam=highcontrast&show_icons=true&count_private=true)
+[![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSadriAghdam)](https://github.com/MSadriAghdam/github-readme-stats)
