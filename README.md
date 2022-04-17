@@ -10,7 +10,7 @@ I'm Mohsen, a Machine Learning engineer, data analyst/scientist, and Learner. I'
 
 
 
-[![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSadriAghdam&theme=dark&show_icons=true&count_private=true)](https://github.com/MSadriAghdam/github-readme-stats)
+[![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSadriAghdam&count_private=true&theme=dark&show_icons=true)](https://github.com/MSadriAghdam/github-readme-stats)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MSadriAghdam&theme=dark&show_icons=true)
  
