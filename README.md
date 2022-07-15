@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Mohsen, a Machine Learning engineer, data analyst/scientist, and Learner. I'm here to learn and enjoy cooprating with you.
 
-- 🔭 I’m currently working on an information extraction from text Machine learning model (NLP).
-- 🌱 I’m currently learning using transformers for text summarization.
+- 🔭 I’m currently working on a computer vision CNN model.
+- 🌱 I’m currently learning more about anomaly detection using computer vision.
 - 👯 I’m looking to collaborate on any interesting ML model. 
-- 💬 Ask me about ML,data analytics, NLP, 
+- 💬 Ask me about data analytics, ML, NLP, Computer Vision
 - 📫 How to reach me: msmohsensadr@gmail.com / s77706@bht-berlin.de / https://www.linkedin.com/in/msadriaghdam/ 
 
 
